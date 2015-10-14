@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Jason Gullifer's Linux Connectivity page"/>
+<title>Jason Gullifer's Website - Connecting to Penn State with Linux</title>
+<link rel="stylesheet" href="files/site_style.css" type="text/css"/>
+<link rel="stylesheet" href="files/menubar.css" type="text/css" />
+</head>
+<body>
+
+
+<div id="page">
+
+	<div id="navbar">
+							<!--#include virtual="./includes/menubar.html" -->			
+	</div>
+
+	<div id="main">
+		<h1>Connecting to Penn State with Linux</h1>
+		
+		<h2>Penn State VPN</h2>
+
+		<p>In order to connect to Penn State's wireless (or PSU servers from off campus) you need a VPN client. If you've been to <a href="http://downloads.its.psu.edu">http://downloads.its.psu.edu</a>, you've probably noticed that ITS recommends that you download Cisco's VPN Client. However, I've found that that program is very inconvienient to install if you run Linux because it requires that you mess around with the kernel. I recommend using vpnc instead. This can be found in Ubuntu repositories (and probably the equivalent places on other distros). vpnc is a program that is run this from the command line as super user / with sudo.</p>
+
+<p>Unfortunatly, vpnc cannot use Cisco's profiles (which are convieniently available in the Cisco package from PSU); however, I have made some vpnc config file that can be used to connect. For PSU wireless, download this script <a href="files/psuwireless.conf">here</a>. Edit this file in your favorite text editor and replace SET_YOUR_USERNAME_HERE with your PSU username. Move this file to your vpnc directory:<br><br>
+
+# sudo mv psuwireless.conf /etc/vpnc/<br><br> </p>
+
+<p>Now, in order to connect to the VPN, all you have to do is run the following command in a terminal. (Additionally, you can add this command to compiz and set a keyboard shortcut for it! It makes connecting quick and easy.)<br><br>
+
+# sudo vpnc psuwireless </p>
+
+<em>Note:</em> If you have trouble connecting to the VPN, it is possible that your wireless is connecting to a bad DNS server. Apparantly, some PSU DNS servers do not work on certain computers. You can solve this by shuffling around the DNS servers in your network preferences page. 
+
+<p>If you need to connect to a Penn State server off campus. Download this conf file <a href="files/isptopsu.conf">here</a>. Then follow the procedure outlined above for psuwireless.conf</p>
+		
+
+
+<h2>Connecting to Liberal Arts Computer Servers</h2>
+<p>Recently I started running into an error (<em>shell request failed on channel 0</em>when trying to ssh to the College of Liberal Arts SSH server. The fix was simple, but it eluded me at first. Apparantly the CLA SSH server isn't an SSH server anymore. It requires you to sftp instead:<br><br>
+
+# sftp your_cla_user_name@ssh.cla.psu.edu</p>
+
+
+		
+	<div id="footer">
+		<!--#include virtual="./includes/footer.html" -->	
+	</div>	
+	</div>
+	
+	
+	
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Jason Gullifer's links page"/>
+<title>Jason Gullifer's Website - Links</title>
+<link rel="stylesheet" href="files/site_style.css" type="text/css"/>
+<link rel="stylesheet" href="files/menubar.css" type="text/css" />
+</head>
+<body>
+
+
+<div id="page">
+
+	<div id="navbar">
+							<!--#include virtual="./includes/menubar.html" -->			
+	</div>
+
+	<div id="main">
+		<h1>My Links</h1>
+		<p>
+		Here are some links that I find interesting/useful. Maybe you will too. (The list is pretty sad right now.
+		It should get better soon.)
+</p>	
+		
+
+		<ul>
+		<li><a href="http://lsrg.psu.edu/">The Center for Language Science</a>
+			<ul>
+            <li>The web site I'm working on for the CLS</li>
+            </ul>
+		</li>
+		
+        <li><a href="http://xkcd.com">xkcd - A webcomic of romance, sarcasm, math, and language.</a>
+			<ul>
+			<li>I'm not generally a fan of comics, but this one is pretty good. Two of my favorites include: 
+			<a href="http://xkcd.com/84/">National Language</a> and <a href="http://xkcd.com/168/">Reverse Euphamisms
+			</a></li>
+			</ul>
+		</li>
+		<li><a href="http://phys.psu.edu/~adasilva/">Ashley DaSilva's Web Page</a>
+	
+		</li>
+		
+		</ul>
+		
+	
+
+		
+	<div id="footer">
+		<!--#include virtual="./includes/footer.html" -->	
+	</div>	
+	</div>
+	
+	
+	
+
+</div>
+
+</body>
+</html>

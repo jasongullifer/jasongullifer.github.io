@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://www.personal.psu.edu/jwg20/</loc>
+  <priority>0.5</priority>
+  <lastmod>2008-06-25T02:50:07+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.personal.psu.edu/jwg20/index.shtml</loc>
+  <priority>0.5</priority>
+  <lastmod>2008-06-25T02:50:07+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.personal.psu.edu/jwg20/academics.shtml</loc>
+  <priority>0.5</priority>
+  <lastmod>2008-06-25T02:50:07+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.personal.psu.edu/jwg20/interests.shtml</loc>
+  <priority>0.5</priority>
+  <lastmod>2008-06-25T02:50:07+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.personal.psu.edu/jwg20/files.shtml</loc>
+  <priority>0.5</priority>
+  <lastmod>2008-06-25T02:50:07+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.personal.psu.edu/jwg20/links.shtml</loc>
+  <priority>0.5</priority>
+  <lastmod>2008-06-25T02:50:07+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.personal.psu.edu/jwg20/files/gullifer.pdf</loc>
+  <priority>0.5</priority>
+  <lastmod>2008-06-25T02:50:07+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>

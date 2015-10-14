@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Jason Gullifer's files page"/>
+<title>Jason Gullifer's Website - Files</title>
+<link rel="stylesheet" href="files/site_style.css" type="text/css"/>
+<link rel="stylesheet" href="files/menubar.css" type="text/css" />
+</head>
+<body>
+
+
+<div id="page">
+
+	<div id="navbar">
+	
+	<!--#include virtual="./includes/menubar.html" -->	
+		
+		
+	</div>
+
+	<div id="main" >
+	<h1>Files</h1>
+	<strong>Papers I've Written</strong>
+<ul>
+	<li><a href="files/gullifer_sluicing.pdf">Processing Reverse Sluicing</a>
+	<ul>
+    <li>This paper investigates processing differences between sentences containing filler-gap
+dependencies and sentences with a cataphoric form of ellipsis, reverse sluicing. The results provide
+supporting evidence for an integral element of syntactic theory: that movement and ellipsis are two
+distinct structures.</li>
+
+</ul>	
+</li>
+</ul>
+<strong>Programs I've Written</strong>
+<ul>
+
+
+<li><a href="files/postField.py">postField</a> - Search multiple people on the PSU Directory</li>
+   <ul>
+     <li>Given an input file that contains a list of names on each line,
+this program will look up each name Penn State Directory
+(http://www.psu.edu/ldap/) and output the results for each name in a
+HTML file.<br><br>
+
+More generally, this program contains the method postField which can
+be passed a URL, a search string, and a field name. It will then
+submit that field to the URL as a POST request.<br><br>
+
+To execute this program, use "python postField.py" and follow the usage guidelines. This program requires the pycurl module.</li>
+
+    </ul>
+<li><a href="files/command_line_scripts.py">Command Line Scripts</a></li>
+	<ul>
+    
+    <li>This contains some scripts I've written in Python that I
+	find useful and you might too! It was written originally for a
+	Linux OS but should work on Windows as well. It currently
+	contains only two functions, _listFiles() and
+	bulkImageConvert().</li>
+
+ <li>_listFiles() stores file names in to a variable. By itself it
+ isn't very useful, but is required by
+ bulkImageConvert(). </li>
+
+<li>bulkImageConvert() will convert all files of a
+ specified type to a new, specified type. It
+ requires <a href="http://www.imagemagick.org/script/index.php">imagemagick</a>
+ to run. The function makes converting many images easier in that they
+ don't have to be done one by one, or by an expensive program such as Photoshop. I recommend moving  your images to their own directory. This way no other files will be changed by accident (although this shouldn't happen). This won't overwrite your pictures.</li>
+</ul>	
+</li>
+</ul>
+
+	
+<strong>Other Things of Interest</strong>
+<ul>
+	<li><a href="files/gullifer.gpg">My Public Key</a></li>
+	<ul>
+    
+    <li>Want to send me something (files, emails, etc.) securely?
+	Here's my public key!</li>
+	<li>Check out <a href="http://getfiregpg.org/">firegpg</a> for a
+	way to use encryption over Gmail from firefox without giving
+	Google your private key/password.</li>
+</ul>	
+</li>
+	</ul>
+		<div id="footer">
+		<!--#include virtual="./includes/footer.html" -->	
+	</div>
+		
+	</div>
+	
+	
+
+
+</div>
+
+</body>
+</html>

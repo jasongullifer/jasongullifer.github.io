@@ -1,0 +1,129 @@
+/******************    Sitewide Styles    ******************/
+html,body {
+margin:0;
+padding:0;
+height:100%; /* this is the key! */
+background-color: black;
+} 
+
+p{
+text-indent: 2em;
+}
+
+a:link{  
+	text-decoration: none; 
+	color:#2932A0;/*#74529A*/
+}
+
+a:visited { 	 
+	text-decoration: none; 
+	color:#880000 ; /*#993399*/
+	}
+a:hover, a:active {
+	color:#135FEA;
+	text-decoration: none;
+	border-bottom:dotted 1px #135FEA;
+	}
+
+li{
+margin-bottom:0.5em;
+}
+
+h4{
+margin-top:.3em;
+}
+
+
+#main h1{
+font-size:24pt;
+text-indent:0px;
+text-align:center;
+}
+
+
+/******************    ID's for Panels    ******************/
+#page{
+font-family: 'Arial', sans-serif;
+height:100%; /* this is the key! */
+margin:0;
+padding:0;
+}
+
+#navbar {
+	background-color: #ffe4b5;	
+	width: 8em; height:auto;	
+	float: left;
+	padding:0.5em;
+	margin-left: 0.5em;
+}
+
+#main {
+font-size: 12pt;
+background-color: #F8F8FF;
+height:auto; width:auto;
+padding:1em;
+padding-top:0;
+margin-top:2em;
+margin-left:10.5em;
+margin-right:2em;
+text-align: justify;
+max-width:700px;
+}
+
+#footer{
+background-color: #B22222;
+height:2em;
+margin-top:1em;
+margin-left:-1em;
+margin-right:-1em;
+margin-bottom:-1em;
+text-align:center;
+}
+
+/****************    Classes to be Reused    ***************/
+.blackborder{
+border: 1px solid #000000;
+}
+
+.noborder{
+border: 0px;
+}
+
+.leftbox{
+float:left;
+margin-bottom:1em;
+width:60%;
+padding:.5em;
+margin-top:1em;
+}
+
+.rightbox{
+float:right;
+text-align:right;
+background-color:black;
+width:30%;
+margin-bottom:1em;
+margin-top:1em;
+padding:.5em;
+color:white;
+}
+
+.center{
+text-align:center;
+margin-left:auto;
+margin-right:auto;
+}
+
+img.center{
+display: block;
+}
+
+
+.hide_header {	
+	background-repeat:no-repeat;
+	background-position:center;
+}
+
+.hide_header span{
+	display:none;
+}
