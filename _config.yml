@@ -1,10 +1,9 @@
 name: "Jason Gullifer's Website"
 description: ""
-author: "Jason Gullifer"
 
-url: "http://www.jasonwgullifer.com"
+url: "127.0.0.1:4000"
 
 paginate: 10
 
 markdown: rdiscount
-permalink: pretty
+permalink: none
