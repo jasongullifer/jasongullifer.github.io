@@ -17,19 +17,20 @@
 
 	<!-- Mobile Specific Metas
   ================================================== -->
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<!-- CSS
-  ================================================== -->
-	<link rel="stylesheet" href="stylesheets/base.css">
-	<link rel="stylesheet" href="stylesheets/skeleton.css">
-	<link rel="stylesheet" href="stylesheets/layout.css">
-	<!-- Favicons
-	================================================== -->
-	<link rel="shortcut icon" href="images/favicon.ico">
-	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+ <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="stylesheets/normalize.css">
+  <link rel="stylesheet" href="stylesheets/skeleton.css">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/favicon.png">
 
 {% include analytics.html %}
 </head>
@@ -44,25 +45,27 @@
 
 	    
 <div class="container">
+	<div class="row">
   
-  <div class="five columns sidebar">
+  		<div class="three columns sidebar">
     
-      <h4 style="text-align:center">Jason W. Gullifer, Ph.D.</h4>
-      <h5 style="text-align:center">Cognitive Neuroscience</h5>
-      <h5 style="text-align:center">Language Science</h5>
-      <h5 style="text-align:center">Bilingualism</h5>
-      <hr/>
-	  <nav>
-		{% include menubar.html %}
-	  </nav>
-		<br />
-		{% include contactinfo.html %}
-	
-  </div> 	  
-	  <div class="seven columns content offset-by-one">
-{{ content }}
+	     	<h4 style="text-align:center">Jason W. Gullifer, Ph.D.</h4>
+	      	<h5 style="text-align:center">Cognitive Neuroscience<br>
+	      	Language Science<br>
+	      	Bilingualism</h5>
+	      	<hr/>
+		  	<nav>
+				{% include menubar.html %}
+		 	 </nav>
+			<br />
+				{% include contactinfo.html %}
+		
+ 		</div> 	  
+	  <div class="nine columns content">
+			{{ content }}
 	  </div>
 
+	</div><!-- row -->
 		  	
 </div><!-- container -->
 
