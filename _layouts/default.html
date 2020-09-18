@@ -46,27 +46,42 @@
 	    
 <div class="container">
 	<div class="row">
-  
-  		<div class="three columns sidebar">
-    
-	     	<h4 style="text-align:center">Jason W. Gullifer, Ph.D.</h4>
-	      	<h5 style="text-align:center">Cognitive Neuroscience<br>
-	      	Language Science<br>
-	      	Psycholinguistics<br>
-	      	Bilingualism</h5>
-	      	<hr/>
-		  	<nav>
-				{% include menubar.html %}
-		 	 </nav>
-			<br />
-				{% include contactinfo.html %}
-		
- 		</div> 	  
-	  <div class="nine columns content">
-			{{ content }}
+  		<div class="three columns header">    
+  		<br>		
+	     		<h4 style="text-align:center">Jason W. Gullifer, Ph.D.</h4>
+	      		<h5 style="text-align:center">Cognitive Neuroscience<br>
+	      		Language Science<br>
+	      		Psycholinguistics<br>
+	      		Bilingualism</h5>				
+ 		</div> 
+
+	  <div class="nine columns header">
+		<br>	
+		<h2 class="center">{{page.title}}</h2>
+
 	  </div>
 
+
 	</div><!-- row -->
+
+	<div class="row">
+		<div class="three columns sidebar">
+			<hr/>
+			<nav>
+				{% include menubar.html %}
+		 	</nav>
+			<br />
+			{% include contactinfo.html %}
+		</div>
+
+		<div class = "nine columns content">
+			{{ content }}
+		</div>
+
+
+
+	</div>
+
 		  	
 </div><!-- container -->
 

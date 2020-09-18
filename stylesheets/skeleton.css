@@ -78,6 +78,8 @@
 
   .one-half.column                { width: 48%; }
 
+
+
   /* Offsets */
   .offset-by-one.column,
   .offset-by-one.columns          { margin-left: 8.66666666667%; }
@@ -194,7 +196,10 @@ IMG.headshot {
     display: block;
     margin-left: auto;
     margin-right: auto;
-      border: 1px solid #555; }
+      border: 1px solid #555; 
+    width:auto;
+    height:150px;
+    }
 
 IMG.center {
     display: block;
