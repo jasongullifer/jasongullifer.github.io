@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+
+	<!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="utf-8">
+	<title>{{ site.name }}</title>
+	<meta name="description" content="{{ site.description }}">
+	<meta name="author" content="">
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+ <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="stylesheets/normalize.css">
+  <link rel="stylesheet" href="stylesheets/skeleton.css">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/favicon.png">
+
+{% include analytics.html %}
+</head>
+<body>
+
+
+
+	<!-- Primary Page Layout
+	================================================== -->
+
+	<!-- Delete everything in this .container and get started on your own site! -->
+
+	    
+<div class="container">
+	<div class="row">
+  		<div class="three columns header">    
+  		<br>		
+	     		<h4 style="text-align:center">Jason W. Gullifer, Ph.D.</h4>
+	      		<h5 style="text-align:center">Cognitive Neuroscience<br>
+	      		Language Science<br>
+	      		Psycholinguistics<br>
+	      		Bilingualism</h5>				
+ 		</div> 
+
+	  <div class="nine columns header">
+		<br>	
+	    <img class="headshot" src="images/gullifer_jason.jpg">
+
+	  </div>
+
+	</div><!-- row -->
+
+	<div class="row">
+		<div class="three columns sidebar">
+			<hr/>
+			<nav>
+				{% include menubar.html %}
+		 	</nav>
+			<br />
+				{% include contactinfo.html %}
+		</div>
+
+		<div class = "nine columns content">
+			{{ content }}
+		</div>
+
+	</div>
+
+		  	
+</div><!-- container -->
+
+
+
+	<!-- JS
+	================================================== -->
+	<script src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+	<script src="javascripts/tabs.js"></script>
+
+<!-- End Document
+================================================== -->
+
+
+
+</body>
+</html>
