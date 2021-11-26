@@ -1,0 +1,7 @@
+_site/
+*.DS_Store
+.bundle/
+vendor/
+*~
+*.#*
+images/website images.pptx
