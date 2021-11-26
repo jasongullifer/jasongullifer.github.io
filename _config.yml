@@ -1,6 +1,9 @@
 name: "Jason W. Gullifer, PhD - Research Associate"
 author: "Jason W. Gullifer"
-description: "Jason W. Gullifer's academic website"
+description: >
+  This is Jason W. Gullifer's academic website. 
+  Jason is a cognitive scientist and language scientist working at McGill University. 
+  He studies the cognitive neuroscience of multilingualism.
 
 url: "127.0.0.1:4000"
 
