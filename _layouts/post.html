@@ -1,14 +1,108 @@
----
-layout: default
----
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
 
-<article class="post">
-  <div class="entry">
-    {{ content }}
-  </div>
+	<!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="utf-8">
+	<title>{{ site.name }}</title>
+	<meta name="description" content="{{ site.description }}">
+	<meta name="author" content="{{ site.author }}">
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-</article>
+ <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="stylesheets/normalize.css">
+  <link rel="stylesheet" href="stylesheets/skeleton.css">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/favicon.png">
+
+{% include analytics.html %}
+</head>
+<body>
+
+
+
+	<!-- Primary Page Layout
+	================================================== -->
+
+	<!-- Delete everything in this .container and get started on your own site! -->
+
+	    
+<div class="container">
+	<div class="row">
+  		<div class="three columns header">    
+  		<br>		
+	     		<h1 class="header">Jason W. Gullifer, Ph.D.</h1>
+	     		<h4 class="header">Research Associate<br>
+	     		McGill University</h4>
+	      		<h5 class="header">Cognitive Neuroscience<br>
+	      		Language Science<br>
+	      		Psycholinguistics<br>
+	      		Bilingualism</h5>				
+ 		</div> 
+
+	  <div class="nine columns header">
+		<br>	
+		<h2 class="center">{{page.title}}</h2>		
+    	<p class="center">Written by {{ page.author }} on {{ page.date | date: "%B %e, %Y" }}</p>	
+	  </div>
+
+
+	</div><!-- row -->
+
+	<div class="row">
+		<div class="three columns sidebar">
+			<hr/>
+			<nav>
+				{% include menubar.html %}
+		 	</nav>
+			<br />
+			{% include contactinfo.html %}
+		</div>
+
+		<div class = "nine columns content">
+			<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+			<hr/>
+			<br>
+
+			<article class="post">
+  			<div class="entry">
+    			{{ content }}
+  			</div>
+			</article>
+		</div>
+	</div>
+
+		  	
+</div><!-- container -->
+
+
+
+	<!-- JS
+	================================================== -->
+	<script src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+	<script src="javascripts/tabs.js"></script>
+
+<!-- End Document
+================================================== -->
+
+
+
+</body>
+</html>

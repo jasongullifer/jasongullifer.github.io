@@ -10,3 +10,5 @@ paginate: 10
 
 markdown: rdiscount
 permalink: none
+paginate: 5
+plugins: [jekyll-paginate]
