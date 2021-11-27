@@ -6,9 +6,9 @@ layout: post
 ---
 ![image of "hello" in many different languages](images/blog/multilingual.png =300x "multilingualism!")
 
-People are often curious what it means to be bilingual or multilingual, and who qualifies as bilingual. One might expect researchers in the field to have a ***strict***definition of bilingualism. But the truth is that I (and others in my field) have a pretty open definition of what "counts" as bilingual. I would say that a bilingual (or multilingual) is someone who has learned or uses two (or more) languages to some degree during their life. It's estimated that bilingualism is the global norm&mdash;that there are more bilinguals and multilinguals copmared to monolinguals. 
+People are often curious what it means to be bilingual or multilingual, and who qualifies as bilingual. One might expect researchers in the field to have a ***strict*** definition of bilingualism. But the truth is that I (and others in my field) have a pretty open definition of what "counts" as bilingual. I would say that a bilingual (or multilingual) is someone who has learned or uses two (or more) languages to some degree during their life. It's estimated that bilingualism is the global norm&mdash;that there are more bilinguals and multilinguals copmared to monolinguals. 
 
-But don't you need to be perfectly proficient or balanced in your languages to qualify as bilingual?*
+>*But don't you need to be perfectly proficient or balanced in your languages to qualify as bilingual?*
 
 There is this idea of a "perfect" form of bilingualism, where someone could function like a "pristine" monolingual speaker in each of their languages. I use scare quotes here because these ideas are part of a mythology surrounding bilingualism.
 
