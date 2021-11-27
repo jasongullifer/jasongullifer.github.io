@@ -2,6 +2,7 @@ _site/
 *.DS_Store
 .bundle/
 vendor/
+_drafts/
 *~
 *.#*
 images/website images.pptx
