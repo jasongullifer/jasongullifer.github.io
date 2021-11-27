@@ -7,7 +7,7 @@ description: >
 url: "127.0.0.1:4000"
 keywords: bilingualism, multilingualism, bilingualism and multilingualism, bilingualism in quebec, multilingualism in quebec, bilingualism in canada, multilingualism in canada, bilingualism definition, language, linguistics, language science
 paginate: 10
-
+permalink: /:categories/:year/:month/:day/:title:output_ext
 markdown: rdiscount
 permalink: none
 paginate: 5
