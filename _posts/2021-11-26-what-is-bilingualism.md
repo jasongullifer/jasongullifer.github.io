@@ -6,11 +6,11 @@ layout: post
 ---
 ![image of "hello" in many different languages](images/blog/multilingual.png =300x "multilingualism!")
 
-People often want to know what it means to be bilingual or multilingual. And they might expect me, as a researcher in the field, to have a ***strict*** definition of bilingualism. But the truth is, I (and others in my field) have a pretty open definition of what "counts" as bilingual. I would say that you're bilingual (or multilingual) if you have learned or use two (or more) languages to some degree during your life.
+People are often curious what it means to be bilingual or multilingual, and who qualifies as bilingual. One might expect researchers in the field to have a ***strict***definition of bilingualism. But the truth is that I (and others in my field) have a pretty open definition of what "counts" as bilingual. I would say that a bilingual (or multilingual) is someone who has learned or uses two (or more) languages to some degree during their life. It's estimated that bilingualism is the global norm&mdash;that there are more bilinguals and multilinguals copmared to monolinguals. 
 
 But don't you need to be perfectly proficient or balanced in your languages to qualify as bilingual?*
 
-It's largely a myth that there is a "perfect" bilingualism, where someone could function like a "pristine" monolingual speaker in each of their languages&mdash;scare quotes here, because there is some mythology surrounding bilingualism, comparisons to monolinguals, and language proficiency.
+There is this idea of a "perfect" form of bilingualism, where someone could function like a "pristine" monolingual speaker in each of their languages. I use scare quotes here because these ideas are part of a mythology surrounding bilingualism.
 
 First, **monolinguals aren't perfect**: they exhibit individual variability in language abilities, including spoken fluency, spoken comprehension, writing ability, and reading ability. People (not just monolinguals) also differ in terms of which varieties of a language they speak. For example, to an English speaker who grew up in parts of Pennsylvania *"the car needs fixed"* sounds just fine. However, to speakers from other parts of the country, this utterance sounds terrible (*the car needs **to be** fixed!!!*). This means that **even people who grew up speaking the same language disagree on how it should be spoken**!
 
