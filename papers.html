@@ -1,0 +1,53 @@
+---
+title: Paper Repository
+layout: default 
+---
+{% assign papers_sorted = site.papers | sort: 'year' | reverse %}
+
+{% for paper in papers_sorted %}
+	{% if forloop.first == true %}
+		{% assign prev_year = paper.year %}
+		<h1>{{ prev_year }}</h1>
+	{% endif %}
+
+	{% if prev_year != paper.year %}
+		{% assign prev_year = paper.year %}
+		<h1>{{ prev_year }}</h1>		
+	{% endif %}
+
+<p id="{{ paper.key }}">
+	{% for author in paper.authors %}
+		{% if author.family == "Gullifer" %}
+		<strong>
+		{% endif %}
+		
+		{% if forloop.last == false and forloop.length == 2 %}
+			{{author.family}} 
+		{% elsif forloop.last == false and forloop.length > 2 %}
+			{{author.family}}, 
+		{% else% %}
+			&amp; {{author.family}}.
+		{% endif %}
+
+		{% if author.family == "Gullifer" %}
+		</strong>
+		{% endif %}
+
+	{% endfor %}
+
+	({{ paper.year }}). {{ paper.title }}. 
+	<em>{{ paper.journal }}</em>.
+	</p>
+
+	<ul>
+		{% if paper.filename != "" and paper.filename != null %}
+		<li><strong><a href="/files/preprints/{{ paper.filename }}">Free Preprint</a></strong></li>
+		{% endif %}
+		{% if paper.journal_url != "" and paper.journal_url != null %}
+		<li><strong><a href="{{ paper.journal_url }}">Published Paper</a></strong></li>
+		{% endif %}
+	</ul>
+	
+	<!--<p style="margin-left:10%; margin-right:10%;"><strong>Abstract:</strong> {{ paper.abstract }}<p>-->
+
+{% endfor %}

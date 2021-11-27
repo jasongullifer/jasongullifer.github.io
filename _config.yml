@@ -11,3 +11,7 @@ paginate: 5
 plugins: [jekyll-paginate]
 
 permalink: /blog/:categories/:year/:month/:day/:title/
+
+collections:
+  papers:
+    sort_by: year
