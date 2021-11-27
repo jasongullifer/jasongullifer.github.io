@@ -15,7 +15,9 @@ There is this idea of a "perfect" form of bilingualism, where someone could func
 
 First, **monolinguals aren't perfect**: they exhibit individual variability in language abilities, including spoken fluency, spoken comprehension, writing ability, and reading ability. People (not just monolinguals) also differ in terms of which varieties of a language they speak. For example, to an English speaker who grew up in parts of Pennsylvania *"the car needs fixed"* sounds just fine. However, to speakers from other parts of the country, this utterance sounds terrible (*the car needs **to be** fixed!!!*). This means that **even people who grew up speaking the same language disagree on how it should be spoken**!
 
-[![image of an advertisement stating "does your car need fixed" and a language map showing acceptability of this construction throughout the USA](/images/blog/needs_fixed.png =400x "does your car need fixed?")](https://ygdp.yale.edu/phenomena/needs-washed)
+
+<a href="https://ygdp.yale.edu/phenomena/needs-washed">
+<img src="/images/blog/needs_fixed.png" alt="image of an advertisement stating 'does your car need fixed?' and a language map showing acceptability of this construction throughout the USA" width="400"></a>
 *Image adapted from the [Yale Grammatical Diversity Project](https://ygdp.yale.edu/phenomena/needs-washed).*
 
 Second, **learning to speak a second language changes the game altogether**, making it difficult or impossible to draw comparisons with monolinguals. Most notably, people who become highly proficient in a second language experience a phenomenon known as cross-language activation, where information from both languages becomes activated even when they are trying to use one language alone. It's thought that cross-language activation occurs all the time for many different aspects of language processing. Sometimes cross-language activation can facilitate communication, and other times it can impede it. Importantly, cross-language activation can occur even in a bilingual's most proficient language (often, but not always, the language they acquired at birth).
