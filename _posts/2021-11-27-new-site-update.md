@@ -39,7 +39,7 @@ Now you have blog posts! But you still need a landing page that organizes all th
 
 E.g. this code will order posts by date, then categorize posts by tag. (This code is in an image format because I could not get the code block working!)
 
-<img src="/images/blog/jekyll_blog_page_code.png" alt="blog landing page code]" width="700">
+<img src="/images/blog/jekyll_blog_page_code.png" alt="blog landing page code" width="700">
 
 That's basically it! Now you just write your blog posts and put them in ```_posts/```. They will then show up on the blog landing page. Draft posts can be added to ```_drafts/``` and they won't be published. 
 
