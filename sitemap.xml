@@ -9,57 +9,112 @@
 
 <url>
   <loc>https://jasonwgullifer.com/</loc>
-  <lastmod>2021-11-27T14:13:13+00:00</lastmod>
+  <lastmod>2021-11-27T18:43:04+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/blog/</loc>
-  <lastmod>2021-11-27T14:13:13+00:00</lastmod>
+  <lastmod>2021-11-27T18:43:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/research/</loc>
-  <lastmod>2021-11-27T14:13:13+00:00</lastmod>
+  <lastmod>2021-11-27T18:43:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/research/language_entropy/</loc>
-  <lastmod>2021-11-27T14:13:13+00:00</lastmod>
+  <lastmod>2021-11-27T18:43:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/research/bilingual_adaptation/</loc>
-  <lastmod>2021-11-27T14:13:13+00:00</lastmod>
+  <lastmod>2021-11-27T18:43:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/research/machine_learning/</loc>
-  <lastmod>2021-11-27T14:13:13+00:00</lastmod>
+  <lastmod>2021-11-27T18:43:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/research/network_science/</loc>
-  <lastmod>2021-11-27T14:13:13+00:00</lastmod>
+  <lastmod>2021-11-27T18:43:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/research/language_processing/</loc>
-  <lastmod>2021-11-27T14:13:13+00:00</lastmod>
+  <lastmod>2021-11-27T18:43:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jasonwgullifer.com/papers/</loc>
+  <lastmod>2021-11-27T18:43:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/history_training/</loc>
-  <lastmod>2021-11-27T14:13:13+00:00</lastmod>
+  <lastmod>2021-11-27T18:43:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/files/gullifer_cv_10-2021.pdf</loc>
-  <lastmod>2021-11-27T14:13:06+00:00</lastmod>
+  <lastmod>2021-11-27T18:43:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/blog/2021/11/26/what-is-bilingualism/</loc>
-  <lastmod>2021-11-27T14:13:13+00:00</lastmod>
+  <lastmod>2021-11-27T18:43:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jasonwgullifer.com/files/preprints/Systems%20Framework%20of%20Bilingualism-Tiv%20et%20al-JEPG-preprint.pdf</loc>
+  <lastmod>2021-11-27T18:43:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jasonwgullifer.com/files/preprints/NOL%20preprint.pdf</loc>
+  <lastmod>2021-11-27T18:43:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jasonwgullifer.com/files/preprints/gullifer_et-al_APS_preprint.pdf</loc>
+  <lastmod>2021-11-27T18:43:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jasonwgullifer.com/files/preprints/titone_mercier_LAB_2019_preprint.pdf</loc>
+  <lastmod>2021-11-27T18:43:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jasonwgullifer.com/files/preprints/gullifer_titone_XGE_in-press.pdf</loc>
+  <lastmod>2021-11-27T18:43:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jasonwgullifer.com/files/preprints/gullifer%20titone%20entropy%20preprint.pdf</loc>
+  <lastmod>2021-11-27T18:43:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jasonwgullifer.com/files/preprints/topic_networks.pdf</loc>
+  <lastmod>2021-11-27T18:43:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jasonwgullifer.com/files/preprints/downstream%20switch%20costs%20jeplmc%20preprint.pdf</loc>
+  <lastmod>2021-11-27T18:43:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jasonwgullifer.com/files/preprints/entropy_connectivity.pdf</loc>
+  <lastmod>2021-11-27T18:43:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jasonwgullifer.com/files/preprints/Dussias%20et%20al%20psycholing%20contact%20ling.pdf</loc>
+  <lastmod>2021-11-27T18:43:00+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
