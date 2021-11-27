@@ -1,5 +1,6 @@
 ---
 title: What is bilingualism? Who is bilingual?
+category: blog
 author: Jason Gullifer
 tag: "defining bilingualism"
 layout: post
