@@ -10,4 +10,4 @@ markdown: rdiscount
 paginate: 5
 plugins: [jekyll-paginate]
 
-permalink: pretty
+permalink: /blog/:categories/:year/:month/:day/:title/
