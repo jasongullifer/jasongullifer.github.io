@@ -9,53 +9,63 @@
 
 <url>
   <loc>https://jasonwgullifer.com/</loc>
-  <lastmod>2021-11-26T19:28:23+00:00</lastmod>
+  <lastmod>2021-11-27T04:00:39+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/index.html</loc>
-  <lastmod>2021-11-26T19:28:23+00:00</lastmod>
+  <lastmod>2021-11-27T04:00:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jasonwgullifer.com/blog.html</loc>
+  <lastmod>2021-11-27T04:00:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/research.html</loc>
-  <lastmod>2021-11-26T19:28:23+00:00</lastmod>
+  <lastmod>2021-11-27T04:00:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/language_entropy.html</loc>
-  <lastmod>2021-11-26T19:28:23+00:00</lastmod>
+  <lastmod>2021-11-27T04:00:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/bilingual_adaptation.html</loc>
-  <lastmod>2021-11-26T19:28:23+00:00</lastmod>
+  <lastmod>2021-11-27T04:00:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/machine_learning.html</loc>
-  <lastmod>2021-11-26T19:28:23+00:00</lastmod>
+  <lastmod>2021-11-27T04:00:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/network_science.html</loc>
-  <lastmod>2021-11-26T19:28:23+00:00</lastmod>
+  <lastmod>2021-11-27T04:00:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/language_processing.html</loc>
-  <lastmod>2021-11-26T19:28:23+00:00</lastmod>
+  <lastmod>2021-11-27T04:00:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/history_training.html</loc>
-  <lastmod>2021-11-26T19:28:23+00:00</lastmod>
+  <lastmod>2021-11-27T04:00:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/files/gullifer_cv_10-2021.pdf</loc>
-  <lastmod>2021-11-26T19:27:50+00:00</lastmod>
+  <lastmod>2021-11-27T04:00:31+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jasonwgullifer.com/what-is-bilingualism.html</loc>
+  <lastmod>2021-11-27T04:00:39+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
