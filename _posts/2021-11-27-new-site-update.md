@@ -61,3 +61,9 @@ collections:
 - I wrote a ```papers.html``` page. It has code to loop through each paper in the ```_papers/``` directory and print out the keys in a quasi-apa format that includes links to the PDF files. Code is [here](https://github.com/jasongullifer/jasongullifer.github.io/blob/master/papers.html).
 
 Next steps will be to make the paper markdown generation more automatic!
+
+# More reading
+- Jekyll quiskstart [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)
+- Jekyll page on creating blog posts and index of posts [https://jekyllrb.com/docs/posts/](https://jekyllrb.com/docs/posts/)
+- Citing papers with Jekyll and Zotero [https://crackedbassoon.com/writing/references](https://crackedbassoon.com/writing/references)
+- Logic, flow control, etc. with Jekyll / Liquid [https://gist.github.com/JJediny/a466eed62cee30ad45e2](https://gist.github.com/JJediny/a466eed62cee30ad45e2)
