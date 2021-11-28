@@ -33,6 +33,6 @@ abstract: >-
     older adults or children) in combination with valid, granular
     quantifications of language experience to reveal predictive effects on novel
     participants.
-filename: gullifer_titone_XGE_in-press.pdf
+filename: gullifer_titone_XGE.pdf
 journal_url: 'https://psycnet.apa.org/record/2020-73247-001'
 ---

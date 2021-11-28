@@ -22,6 +22,6 @@ abstract: >-
   entropy as a means to characterize individual differences in bilingual (and multilingual) language
   experience related to the social diversity of language use.
 
-filename: gullifer titone entropy preprint.pdf
+filename: gullifer-titone-entropy-preprint.pdf
 journal_url: https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/abs/characterizing-the-social-diversity-of-bilingualism-using-language-entropy/BCA277F72A02D8834C53E4F9090FF7FD
 ---

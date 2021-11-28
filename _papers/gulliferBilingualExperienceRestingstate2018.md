@@ -38,6 +38,6 @@ abstract: >-
     social language use link to a broadly distributed set of brain networks
     implicated in proactive control and context monitoring.
 
-filename: entropy_connectivity.pdf
+filename: language-entropy-connectivity.pdf
 journal_url: https://www.sciencedirect.com/science/article/abs/pii/S0028393218301878
 ---

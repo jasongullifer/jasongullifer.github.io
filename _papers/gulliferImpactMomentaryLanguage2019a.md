@@ -30,6 +30,6 @@ abstract: >-
     bilingual processing that ascribe a primary role for language control.
     (PsycInfo Database Record (c) 2021 APA, all rights reserved)
 
-filename: downstream switch costs jeplmc preprint.pdf
+filename: downstream-switch-costs-jeplmc.pdf
 journal_url: https://psycnet.apa.org/record/2019-14528-001
 ---
