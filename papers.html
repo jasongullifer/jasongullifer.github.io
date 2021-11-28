@@ -25,6 +25,8 @@ layout: default
 			{{author.family}} 
 		{% elsif forloop.last == false and forloop.length > 2 %}
 			{{author.family}}, 
+		{% elsif forloop.last == true and forloop.length == 1 %}
+			{{author.family}}.
 		{% else% %}
 			&amp; {{author.family}}.
 		{% endif %}
