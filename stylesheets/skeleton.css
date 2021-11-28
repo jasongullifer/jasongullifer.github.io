@@ -203,11 +203,6 @@ IMG.headshot {
     height:150px;
     }
 
-IMG.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto
-}
 
 IMG.middle{
   vertical-align: middle
@@ -216,7 +211,17 @@ IMG.middle{
 article IMG{
     display: block;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
+    width:100%;
+    max-width:880px;
+}
+
+.content IMG{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:100%;
+    max-width:880px;
 }
 
 /* Links
