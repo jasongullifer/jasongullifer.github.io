@@ -9,113 +9,168 @@
 
 <url>
   <loc>https://jasonwgullifer.com/</loc>
-  <lastmod>2021-11-27T18:50:14+00:00</lastmod>
+  <lastmod>2021-11-28T02:39:12+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/files/gullifer_cv_11-2021.pdf</loc>
-  <lastmod>2021-11-27T18:50:09+00:00</lastmod>
+  <lastmod>2021-11-28T02:39:07+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/blog/</loc>
-  <lastmod>2021-11-27T18:50:14+00:00</lastmod>
+  <lastmod>2021-11-28T02:39:12+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/research/</loc>
-  <lastmod>2021-11-27T18:50:14+00:00</lastmod>
+  <lastmod>2021-11-28T02:39:12+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/research/language_entropy/</loc>
-  <lastmod>2021-11-27T18:50:14+00:00</lastmod>
+  <lastmod>2021-11-28T02:39:12+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/research/bilingual_adaptation/</loc>
-  <lastmod>2021-11-27T18:50:14+00:00</lastmod>
+  <lastmod>2021-11-28T02:39:12+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/research/machine_learning/</loc>
-  <lastmod>2021-11-27T18:50:14+00:00</lastmod>
+  <lastmod>2021-11-28T02:39:12+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/research/network_science/</loc>
-  <lastmod>2021-11-27T18:50:14+00:00</lastmod>
+  <lastmod>2021-11-28T02:39:12+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/research/language_processing/</loc>
-  <lastmod>2021-11-27T18:50:14+00:00</lastmod>
+  <lastmod>2021-11-28T02:39:12+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/papers/</loc>
-  <lastmod>2021-11-27T18:50:14+00:00</lastmod>
+  <lastmod>2021-11-28T02:39:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jasonwgullifer.com/tutorials/</loc>
+  <lastmod>2021-11-28T02:39:12+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/history_training/</loc>
-  <lastmod>2021-11-27T18:50:14+00:00</lastmod>
+  <lastmod>2021-11-28T02:39:12+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://jasonwgullifer.com/blog/2021/11/27/new-site-update/</loc>
+  <lastmod>2021-11-28T02:39:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
   <loc>https://jasonwgullifer.com/blog/2021/11/26/what-is-bilingualism/</loc>
-  <lastmod>2021-11-27T18:50:14+00:00</lastmod>
+  <lastmod>2021-11-28T02:39:12+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/files/preprints/Systems%20Framework%20of%20Bilingualism-Tiv%20et%20al-JEPG-preprint.pdf</loc>
-  <lastmod>2021-11-27T18:50:09+00:00</lastmod>
+  <lastmod>2021-11-28T02:39:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/files/preprints/NOL%20preprint.pdf</loc>
-  <lastmod>2021-11-27T18:50:09+00:00</lastmod>
+  <lastmod>2021-11-28T02:39:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/files/preprints/gullifer_et-al_APS_preprint.pdf</loc>
-  <lastmod>2021-11-27T18:50:09+00:00</lastmod>
+  <lastmod>2021-11-28T02:39:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/files/preprints/titone_mercier_LAB_2019_preprint.pdf</loc>
-  <lastmod>2021-11-27T18:50:10+00:00</lastmod>
+  <lastmod>2021-11-28T02:39:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jasonwgullifer.com/files/preprints/gullifer_titone_XGE_in-press.pdf</loc>
-  <lastmod>2021-11-27T18:50:09+00:00</lastmod>
+  <loc>https://jasonwgullifer.com/files/preprints/gullifer_titone_XGE.pdf</loc>
+  <lastmod>2021-11-28T02:39:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jasonwgullifer.com/files/preprints/gullifer%20titone%20entropy%20preprint.pdf</loc>
-  <lastmod>2021-11-27T18:50:09+00:00</lastmod>
+  <loc>https://jasonwgullifer.com/files/preprints/gullifer-titone-entropy.pdf</loc>
+  <lastmod>2021-11-28T02:39:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/files/preprints/topic_networks.pdf</loc>
-  <lastmod>2021-11-27T18:50:10+00:00</lastmod>
+  <lastmod>2021-11-28T02:39:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jasonwgullifer.com/files/preprints/downstream%20switch%20costs%20jeplmc%20preprint.pdf</loc>
-  <lastmod>2021-11-27T18:50:09+00:00</lastmod>
+  <loc>https://jasonwgullifer.com/files/preprints/downstream-switch-costs-jeplmc.pdf</loc>
+  <lastmod>2021-11-28T02:39:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://jasonwgullifer.com/files/preprints/entropy_connectivity.pdf</loc>
-  <lastmod>2021-11-27T18:50:09+00:00</lastmod>
+  <loc>https://jasonwgullifer.com/files/preprints/language-entropy-connectivity.pdf</loc>
+  <lastmod>2021-11-28T02:39:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://jasonwgullifer.com/files/preprints/Dussias%20et%20al%20psycholing%20contact%20ling.pdf</loc>
-  <lastmod>2021-11-27T18:50:09+00:00</lastmod>
+  <lastmod>2021-11-28T02:39:07+00:00</lastmod>
   <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jasonwgullifer.com/files/data_manipulation.html</loc>
+  <lastmod>2021-11-28T02:39:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jasonwgullifer.com/rworkshop/</loc>
+  <lastmod>2021-11-28T02:33:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jasonwgullifer.com/rworkshop/install.html</loc>
+  <lastmod>2021-11-28T02:33:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jasonwgullifer.com/rworkshop/ppts/01_introduction.pptx</loc>
+  <lastmod>2021-11-28T02:33:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jasonwgullifer.com/rworkshop/ppts/02_interact.pptx</loc>
+  <lastmod>2021-11-28T02:33:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jasonwgullifer.com/rworkshop/ppts/03_databasics.pptx</loc>
+  <lastmod>2021-11-28T02:33:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jasonwgullifer.com/rworkshop/ppts/04_organization.pptx</loc>
+  <lastmod>2021-11-28T02:33:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jasonwgullifer.com/rworkshop/ppts/05_plotting.pptx</loc>
+  <lastmod>2021-11-28T02:33:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jasonwgullifer.com/rworkshop/ppts/06_statistics.pptx</loc>
+  <lastmod>2021-11-28T02:33:05+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 
 
