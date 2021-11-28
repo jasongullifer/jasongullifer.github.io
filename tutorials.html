@@ -1,0 +1,52 @@
+---
+title: Tutorials and Resources
+layout: default 
+---
+{% assign tutorials_sorted = site.tutorials | sort: 'date' | reverse %}
+
+{% for tutorial in tutorials_sorted %}
+	{% assign year = tutorial.date | date: "%Y" %}
+
+	{% if forloop.first == true %}
+		{% assign prev_date = year %}
+		<h1>{{ prev_date }}</h1>
+	{% endif %}
+
+	{% if prev_date != year %}
+		{% assign prev_date = year %}
+		<h1>{{ prev_date }}</h1>		
+	{% endif %}
+
+<p id="{{ tutorial.key }}">
+	{% for author in tutorial.authors %}
+		{% if author.family == "Gullifer" %}
+		<strong>
+		{% endif %}
+		
+		{% if forloop.last == false and forloop.length == 2 %}
+			{{author.family}} 
+		{% elsif forloop.last == false and forloop.length > 2 %}
+			{{author.family}}, 
+		{% elsif forloop.last == true and forloop.length == 1 %}
+			{{author.family}}.
+		{% else% %}
+			&amp; {{author.family}}.
+		{% endif %}
+
+		{% if author.family == "Gullifer" %}
+		</strong>
+		{% endif %}
+
+	{% endfor %}
+
+	({{ year }}). <a href="{{ tutorial.link }}">{{ tutorial.title }}</a>. 
+	</p>
+	<p style="margin-left:10%; margin-right:10%;"><strong>Description:</strong> {{ tutorial.description }}<p>
+
+{% endfor %}
+
+<h1>Other resources:</h1>
+
+<ul>
+	<li>Mehrgol Tiv has a fantastic set of tutorials and resources on her <a href="http://www.mehrgoltiv.com/resources">website</a>.</li>
+</ul>
