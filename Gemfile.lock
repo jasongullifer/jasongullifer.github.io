@@ -275,7 +275,7 @@ PLATFORMS
 
 DEPENDENCIES
   bunto-sitemap (~> 3.0)
-  github-pages
+  github-pages (~> 222)
   rdiscount
   webrick (~> 1.7)
 
